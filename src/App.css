@@ -1,0 +1,22 @@
+/* .progress-bar {
+  width: 25%;
+}
+.progres-bar_tow {
+  width: 70%;
+}
+.progres-bar_three {
+  width: 100%;
+}
+.progressBar {
+  font-size: 17px;
+  margin-top: -7px;
+  display: block;
+  font-weight: 800;
+} */
+.pdfBook{
+  font-size: 31px;
+  margin-left: 8px;
+}
+.progress-bar{
+  background-color: green;
+}

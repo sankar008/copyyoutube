@@ -1,0 +1,53 @@
+{
+  "name": "check-mate-admin",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.15.0",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.24.0",
+    "downloadbutton": "^1.0.0",
+    "jquery": "^3.6.0",
+    "jQuery": "^1.7.4",
+    "jspdf": "^2.5.1",
+    "moment": "^2.29.1",
+    "puppeteer": "^15.5.0",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "^17.0.2",
+    "react-jquery-plugin": "^1.1.7",
+    "react-pageflip": "^2.0.3",
+    "react-pdf": "^5.7.2",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-search-autocomplete": "^7.2.1",
+    "reactjs-pdf-reader": "^1.0.12",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
